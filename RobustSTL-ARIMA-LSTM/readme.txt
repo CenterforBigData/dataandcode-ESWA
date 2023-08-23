@@ -1,11 +1,2 @@
-Field	Value
-Title	The proposed decomposed and ensemble framework
-Type	Source Code
-Language	Python, R
-License	
-Status	Research Code
-Update Frequency	NO
-Date Published	2023-08-10
-Date Updated	2023-08-23
-URL	https://github.com/CenterforBigData/dataandcode-ESWA
-Point of Contact	Dr. Xin Li
+The proposed project, titled "The proposed decomposed and ensemble framework," consists of source code related to research in the field. The code is written in both Python and R programming languages. As of the current status, this is identified as research code, and there is no specific license mentioned. The code is not updated regularly, as indicated by the "NO" under the "Update Frequency" field. 
+The code can be accessed via the URL https://github.com/CenterforBigData/dataandcode-ESWA. The point of contact for this project is Dr. Xin Li.
